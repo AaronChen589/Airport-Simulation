@@ -45,6 +45,21 @@ space becomes available.
 
 
 
+## How to Start Simulation
+
+1) Open up Airport Simulation
+
+2)You will be prompted to enter ...
+-a seed for the simulation (optional if you want consistency)
+-the probability of passenger arrival time
+-the probability that a passenger is dequeued
+-the probability that there is a new flight at RFK
+- how many minutes this simulation should take
+
+3) Watch the simulation occur through the terminal.
+    
+
+
 
 
 
