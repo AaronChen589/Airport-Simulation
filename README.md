@@ -47,7 +47,7 @@ space becomes available.
 
 ## How to Start Simulation
 
-1) Open up Airport Simulation
+1) Open up FlightSimulation.java and run it
 
 2)You will be prompted to enter ...
 -a seed for the simulation (optional if you want consistency)
